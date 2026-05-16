@@ -1,0 +1,23 @@
+{
+  "name": "MealPlan — Planeador Alimentar",
+  "short_name": "MealPlan",
+  "description": "O teu planeador alimentar pessoal",
+  "start_url": "./mealplan.html",
+  "display": "standalone",
+  "background_color": "#f0f4ef",
+  "theme_color": "#2d6a4f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='40' fill='%232d6a4f'/><text y='130' x='96' text-anchor='middle' font-size='110'>🌿</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='100' fill='%232d6a4f'/><text y='360' x='256' text-anchor='middle' font-size='300'>🌿</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["food", "lifestyle", "productivity"]
+}
